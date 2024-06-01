@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Yaroslav </a> 
+<h1 align="left">Hi there, I'm Yaroslav </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Android developer from Russia </h3>
+<h3 align="left">I'm Android developer from Russia </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaroslav-89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
